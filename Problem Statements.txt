@@ -1,0 +1,67 @@
+Problem statement
+
+DMart runs 40 stores across 15 cities in four regions. All stores follow the same everyday-low-price model, yet their performance varies widely. Some stores earn far more revenue per square foot than others, attract more visitors, convert more of them into buyers, and sell a more profitable mix of categories.
+
+Leadership wants to understand why some stores outperform others and which factors separate top performers from the rest. These factors include location type, city tier, store size, checkout capacity, parking, store age, category mix and private-label share. The findings will guide decisions on store formats, staffing, assortment, and site selection for new stores.
+
+Scope: FY2025-26 (1 April 2025 – 31 March 2026), covering all 40 stores, 328 products in 30 categories, 20,000 registered customers and daily footfall.
+
+Business questions
+1. Business overview
+What was DMart’s total revenue, gross profit, gross margin %, number of bills and average bill value for FY2025-26?
+How is revenue split across regions, city tiers and cities?
+How did revenue and bill count trend month by month, and which months were the highest and lowest?
+What share of revenue comes from each department: Foods, Non-Foods (FMCG), and General Merchandise & Apparel?
+2. Store productivity
+Rank all 40 stores by revenue per square foot. Which are the top 5 and bottom 5?
+How does revenue per square foot compare across location types (Residential, High Street, Highway, Mall)?
+How does revenue per square foot compare across city tiers and regions?
+Is there a relationship between store size and revenue per square foot?
+Within each city that has more than one store, which store performs best and which performs worst?
+3. Footfall and conversion
+What is the footfall-to-bill conversion rate for each store, and how wide is the gap between the best and worst?
+How does conversion rate vary with the number of checkout counters per 10,000 sq ft?
+How does conversion on weekends compare with weekdays?
+Which stores get high footfall but low conversion?
+4. Basket analysis
+What are the average bill value and the average number of items per bill for each store?
+How do bill value and items per bill differ between stores with and without parking?
+How does basket size vary across location types and city tiers?
+How does the average bill value differ between weekdays and weekends, and between the first week of the month and the rest of the month?
+What is the distribution of bills across value bands (for example, under ₹500, ₹500–1,000, ₹1,000–2,500, above ₹2,500)?
+5. Category and product mix
+What is each store’s revenue split across the three departments?
+Which 10 categories and 20 products generate the most revenue, and which generate the most gross profit?
+How does the category mix of the top 10 stores compare with that of the bottom 10 stores?
+Which categories have the highest and lowest gross margin %?
+Which products sell in high volume but contribute little gross profit?
+6. Margin and private label
+What is the gross margin % for each store, and which stores have the highest and lowest?
+What share of revenue comes from private-label products at each store?
+How does gross margin % compare between private-label and national-brand products within the same category?
+How much did promotional discounts cost each store, and which categories received the most discount?
+7. Seasonality and time patterns
+Which days of the week and which hours of the day bring the most bills and revenue?
+How did sales change in the weeks around major festivals (Raksha Bandhan, Navratri, Diwali, Holi)?
+Which categories gained the most share during the Diwali period compared with the rest of the year?
+How did produce prices move through the year, and how did that affect Fruits & Vegetables revenue?
+Which categories show clear seasonal patterns (summer, monsoon, winter, back-to-school)?
+8. Customers
+What share of bills come from registered customers compared with walk-in customers, by store and city tier?
+How do average bill value and visit frequency differ across age groups and gender?
+Who are the top 1% of customers by spend, and what share of revenue do they contribute?
+What share of registered customers shop at a store other than their home store?
+How many new customers registered each month, and how much did they spend in their first 90 days?
+How does the payment-mode mix (Cash, UPI, Debit Card, Credit Card) vary by city tier and bill value?
+9. Workforce and operations
+What are the revenue per employee and the bills handled per cashier for each store?
+How does total monthly salary cost compare with gross profit for each store?
+Which cashiers handled the most bills and revenue, and how evenly is the workload spread within each store?
+List each store’s reporting hierarchy, showing every employee with their manager’s name and role.
+10. New-store maturity
+How did monthly revenue and bill count change over the year for stores that opened in 2024?
+How do the 2024 stores compare with established stores in the same city on revenue per square foot and bill value?
+11. What top stores do differently
+Build a scorecard for all 40 stores showing revenue per sq ft, conversion, bill value, items per bill, GM&A share, private-label share and gross margin %. Classify each store as Top, Middle or Bottom tier.
+Compare the Top tier and Bottom tier on store attributes: location type, city tier, size, checkout density, parking and store age.
+Based on the analysis, what three to five recommendations would you give leadership to raise the performance of the bottom-tier stores?
